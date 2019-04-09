@@ -1,0 +1,17 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    overflow-x:hidden;
+    overflow-y:"hidden";
+}
+.page{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 49px;
+    background: pink;
+    width: 100%;
+    height: 100%;
+}
