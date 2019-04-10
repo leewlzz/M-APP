@@ -1,0 +1,334 @@
+{
+    "code": 0,
+    "data": {
+        "header": {
+            "view_type": "cells_auto_fill",
+            "body": {
+                "w": 720,
+                "h": 120,
+                "height": "0",
+                "width": "0",
+                "items": [
+                    {
+                        "w": 720,
+                        "h": 120,
+                        "img_url": "//i8.mifile.cn/b2c-mimall-media/e95ade2750a7fde92369b416c7d3176d.jpg",
+                        "is_bigtap": false,
+                        "path_type": "image",
+                        "margin_left": 0,
+                        "margin_right": 0,
+                        "win_prize_action": null
+                    }
+                ],
+                "win_prize_action": null,
+                "not_win_prize_action": null,
+                "margin_left": 0,
+                "margin_right": 0
+            }
+        },
+        "recom_list": [
+            {
+                "action": {
+                    "type": "product",
+                    "path": "9167",
+                    "log_code": "recom_list_0-1#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=9167",
+                    "recommend_code": "recom_list_0-1#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=9167"
+                },
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7d09a52bc55a2f4097674b8d1609374f.jpg",
+                "is_multi_price": false,
+                "market_price": "19",
+                "name": "小米Play 高透软胶保护套",
+                "price": "19",
+                "product_desc": "超薄手感 全面防护",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "7716",
+                    "log_code": "recom_list_0-2#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7716",
+                    "recommend_code": "recom_list_0-2#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7716"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/e0da585ed7a1ffde224f0483ab4e6634.jpg",
+                "is_multi_price": false,
+                "market_price": "499",
+                "name": "Populele  U1 智能尤克里里",
+                "price": "499",
+                "product_desc": "搭配APP游戏式教学 / 独具风格的专业琴声 / 练琴不枯燥 / 个性且精致",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "5469",
+                    "log_code": "recom_list_0-3#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5469",
+                    "recommend_code": "recom_list_0-3#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5469"
+                },
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f3037720e78c12a4827fad024eeb0666.jpg",
+                "is_multi_price": false,
+                "market_price": "1699",
+                "name": "米家全景相机套装 ",
+                "price": "1699",
+                "product_desc": "2388万有效像素 / 3.5K视频录制 / 6轴电子防抖／IP67级防水防尘",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "7528",
+                    "log_code": "recom_list_0-4#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7528",
+                    "recommend_code": "recom_list_0-4#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7528"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/0f045f786d9f4d8e83e28b236466a710.jpg",
+                "is_multi_price": false,
+                "market_price": "299",
+                "name": "米家电磁炉",
+                "price": "299",
+                "product_desc": "99挡微调控火 / 支持低温烹饪 / 100+烹饪模式",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "8143",
+                    "log_code": "recom_list_0-5#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8143",
+                    "recommend_code": "recom_list_0-5#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8143"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/b69a791174672026ea3dc0c30b363029.jpg",
+                "is_multi_price": false,
+                "market_price": "99",
+                "name": "70迈高清倒车影像摄像头",
+                "price": "99",
+                "product_desc": "前后双录 / 138°广角 / 720P高清夜视 / IPX7防水",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "4951",
+                    "log_code": "recom_list_0-6#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=4951",
+                    "recommend_code": "recom_list_0-6#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=4951"
+                },
+                "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/52f34f4d4d5bb85c3513f8098a41d1fa.jpg",
+                "is_multi_price": false,
+                "market_price": "325",
+                "name": "小米智能家庭礼品装",
+                "price": "299",
+                "product_desc": "本礼品装包含 小米多功能网关*1、小米人体传感器*1、小米门窗传感器*1、小米智能插座（Zigbee版）*1、小米无线开关*1",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "9242",
+                    "log_code": "recom_list_0-7#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=9242",
+                    "recommend_code": "recom_list_0-7#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=9242"
+                },
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/544dfed27cb0b2f3e9a4725e2add935a.jpg",
+                "is_multi_price": false,
+                "market_price": "19",
+                "name": "Redmi Note 7 标准高透贴膜",
+                "price": "19",
+                "product_desc": "\u003cfont color='#ff4a00'\u003e「适用于Redmi Note 7和Redmi Note 7 Pro两款机型」\u003c/font\u003e硬度大于2H，减少屏幕划伤和磨损",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "3331",
+                    "log_code": "recom_list_0-8#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=3331",
+                    "recommend_code": "recom_list_0-8#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=3331"
+                },
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/bc87821af89176ddb2da0e2905be88eb.jpg",
+                "is_multi_price": false,
+                "market_price": "69",
+                "name": "小米随身蓝牙音箱",
+                "price": "69",
+                "product_desc": "玲珑身材，不同凡响 / 车载通话，内置麦克风，稳定清晰，伴你安全前行 / 全金属外壳，3款经典配色",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "9209",
+                    "log_code": "recom_list_0-9#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=9209",
+                    "recommend_code": "recom_list_0-9#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=9209"
+                },
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/484318ef4e069d5587b6526024fc6ebf.jpg",
+                "is_multi_price": false,
+                "market_price": "399",
+                "name": "小米蓝牙耳机Air",
+                "price": "399",
+                "product_desc": "真无线设计 / 单双耳佩戴 / AAC 高清音质 / 降噪通话 / 触控操作",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "8881",
+                    "log_code": "recom_list_0-10#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8881",
+                    "recommend_code": "recom_list_0-10#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8881"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/92df81ab13510b43d5377d304b6d0651.jpg",
+                "is_multi_price": false,
+                "market_price": "79",
+                "name": "米家自动洗手机套装",
+                "price": "79",
+                "product_desc": "免接触更卫生 / 99.9%有效抑菌 / 植物精华，滋润舒适",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "7761",
+                    "log_code": "recom_list_0-11#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7761",
+                    "recommend_code": "recom_list_0-11#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7761"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/d44b7df665a38d284386be82cef5785f.jpg",
+                "is_multi_price": false,
+                "market_price": "3599",
+                "name": "小米MIX 2S 6GB+128GB",
+                "price": "2699",
+                "product_desc": "陶瓷机身 手机中的艺术品 / 搭载高通骁龙845 年度旗舰处理器 / AI超感光双摄，DxO百分相机 / 高效 Qi 无线充电",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "1719",
+                    "log_code": "recom_list_0-12#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=1719",
+                    "recommend_code": "recom_list_0-12#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=1719"
+                },
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8873564985f8151acdbef39e48ab316c.jpg",
+                "is_multi_price": true,
+                "market_price": "49",
+                "name": "小米金属鼠标垫",
+                "price": "49",
+                "product_desc": "简约、纤薄、时尚 / 航空铝合金 / 专业之选",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "8811",
+                    "log_code": "recom_list_0-13#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8811",
+                    "recommend_code": "recom_list_0-13#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8811"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/2ea2fa11c1e7f598d282260874eb21ad.jpg",
+                "is_multi_price": false,
+                "market_price": "99",
+                "name": "双单元耳机Type-C版",
+                "price": "99",
+                "product_desc": "USB Type-C接口 / 动圈+陶瓷喇叭双单元声学架构 / 半入耳式舒适佩戴 / 高韧性线材+微机电麦克风线控",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "7809",
+                    "log_code": "recom_list_0-14#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7809",
+                    "recommend_code": "recom_list_0-14#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7809"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/5879e63da2a64af293c914c642fbc154.jpg",
+                "is_multi_price": false,
+                "market_price": "2799",
+                "name": "小米电视4S 55英寸",
+                "price": "2799",
+                "product_desc": "4K HDR / 人工智能语音 / 金属机身 / 2GB+8GB 大存储 / 杜比音效 / 海量片源",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "5499",
+                    "log_code": "recom_list_0-15#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5499",
+                    "recommend_code": "recom_list_0-15#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5499"
+                },
+                "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dd4e70d66276839ed73d9a9b897d4859.jpg",
+                "is_multi_price": false,
+                "market_price": "289",
+                "name": "悦米机械键盘",
+                "price": "269",
+                "product_desc": "87键 / 铝合金机身 / TTC 红轴 / 简约百搭",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "8606",
+                    "log_code": "recom_list_0-16#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8606",
+                    "recommend_code": "recom_list_0-16#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8606"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/c1d63c6afdb8648c0d66f52ece85e514.jpg",
+                "is_multi_price": false,
+                "market_price": "599",
+                "name": "儿童电话手表3｜4G版",
+                "price": "499",
+                "product_desc": "\u003cfont color='#ff4a00'\u003e「小米9周年感恩狂欢，4月10日立减100元！」\u003c/font\u003e内置“小爱同学”／智能识别植物／移动支付功能／IPX7 级防水",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "7755",
+                    "log_code": "recom_list_0-17#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7755",
+                    "recommend_code": "recom_list_0-17#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=7755"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/aafc9629a43e816ec46182ccb501bab1.jpg",
+                "is_multi_price": false,
+                "market_price": "49",
+                "name": "8H记忆绵U形护颈枕",
+                "price": "49",
+                "product_desc": "时刻护颈 / 伴你左右",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "5024",
+                    "log_code": "recom_list_0-18#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5024",
+                    "recommend_code": "recom_list_0-18#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5024"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/b829cde590a1fec0adf488470d1566b1.jpg",
+                "is_multi_price": false,
+                "market_price": "199",
+                "name": "头戴式耳机 轻松版 ",
+                "price": "199",
+                "product_desc": "洁净外观设计 / 封闭式音腔 / 舒适佩戴 / 手机直推 / 青春配色",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "8647",
+                    "log_code": "recom_list_0-19#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8647",
+                    "recommend_code": "recom_list_0-19#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8647"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/1624b798623b541f29e49705e0dedc19.jpg",
+                "is_multi_price": false,
+                "market_price": "399",
+                "name": "米家空气净化器MAX滤芯",
+                "price": "399",
+                "product_desc": "高效过滤 PM2.5 / 活性炭柱有效吸附甲醛 / 更大面积滤材有效提升滤效",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "8016",
+                    "log_code": "recom_list_0-20#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8016",
+                    "recommend_code": "recom_list_0-20#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=8016"
+                },
+                "image_url": "//i8.mifile.cn/b2c-mimall-media/eb7f50c739406bb059b19eaea1a71cfa.jpg",
+                "is_multi_price": false,
+                "market_price": "499",
+                "name": "小米净水器滤芯 反渗透",
+                "price": "499",
+                "product_desc": "有效滤除抗生素、重金属、细菌、亚硝酸盐、有机物等",
+                "product_tag": ""
+            }
+        ],
+        "title": "为你推荐"
+    },
+    "result": "ok"
+}

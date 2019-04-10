@@ -42,6 +42,7 @@ export default {
     background: #fff;
     bottom: 0;
     display: flex;
+    overflow: hidden;
     .tab{
         flex:25%;
     }
