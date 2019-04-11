@@ -14,10 +14,17 @@ const PRO_HOST = 'http://129.204.72.71:80';
 */ 
 const GOODS_RECOM_API = '/data/recom_list.json';
 
+/*
+说明： 分类页面接口
+请求方式：POST
+参数： 无
+*/ 
+const CATE_DATA_API = '/v1/home/category_v2'
 
 
 export default {
     HOST: DEV_HOST,
-    GOODS_RECOM_API
+    GOODS_RECOM_API,
+    CATE_DATA_API
 }
 
