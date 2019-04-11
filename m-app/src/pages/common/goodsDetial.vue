@@ -1,12 +1,22 @@
 <template>
     <div class="page" id="detial">
-        <div class="topoption border-bottom">
+        <div class="topoption">
             <i class="iconfont icon-back" @click="goPrepage"></i>
             <i class="iconfont icon-like"></i>
         </div>
         <app-scroll>
             <div class="main-shaow">
-                <li v-for="i in 90" :key="i">商品详情</li>
+                <van-swipe :autoplay="5000" indicator-color="white" class="banner">
+                    <van-swipe-item class="item" v-for="(item,index) in goods.banner.galleryView" :key="index"><img :src="item" alt=""></van-swipe-item>
+                </van-swipe>
+
+                <div class="goodsInfo">
+                    <p class="name">{{goods.name}}</p>
+                    <p class="seo"><span>{{goods.seo.description}}</span> 
+                        <span>{{goods.seo.keywords}}</span> 
+                        <span>{{goods.seo.title}}</span> 
+                    </p>
+                </div>
             </div>
         </app-scroll>
         <div class="gobuy">
@@ -40,7 +50,7 @@ export default {
     computed :{
         ...mapState({
             // 返回获取到的数据
-            goods : state => state.goods.goodsDetail  && goods.goodsDetail
+            goods : state => state.goods.goodsDetail  && state.goods.goodsDetail
         })
     },
     created() {
@@ -92,7 +102,26 @@ export default {
         top :0;
         bottom : 0;
         .main-shaow {
-        
+            .banner{
+                width : 100%;
+                .item{
+                    img{
+                        width: 100%;
+                        display: block;
+                        border: 0;
+                    }
+                }
+            }
+        }
+        .goodsInfo{
+            padding: 10px;
+            box-sizing: border-box;
+            background-color: #fff;
+            .name{
+                font-size: 16px;
+                font-weight: bold;
+                padding: 10px 0;
+            }
         }
     }
     .gobuy {
