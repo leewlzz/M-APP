@@ -1,0 +1,425 @@
+{
+    "code": 0,
+    "data": {
+        "batch_buy_option": [],
+        "buy_option": [
+            {
+                "list": [
+                    {
+                        "icon_color": "",
+                        "icon_img": "",
+                        "is_stock": true,
+                        "name": "白色",
+                        "price": "",
+                        "prop_desc": "",
+                        "prop_value_id": 2
+                    }
+                ],
+                "name": "颜色",
+                "prop_cfg_id": 2
+            },
+            {
+                "list": [
+                    {
+                        "icon_color": "",
+                        "icon_img": "",
+                        "is_stock": false,
+                        "name": "通用",
+                        "price": "",
+                        "prop_desc": "",
+                        "prop_value_id": 49
+                    }
+                ],
+                "name": "通用",
+                "prop_cfg_id": 1
+            }
+        ],
+        "default_goods_id": "2173600008",
+        "goods_info": [
+            {
+                "action_button": {
+                    "bigtap_source": "bigtap",
+                    "button_title": "加入购物车",
+                    "is_bigtap": false,
+                    "mode_change_time": 0,
+                    "mode_end_time": 0,
+                    "mode_start_time": 1522684680,
+                    "occ_timeout": 5000,
+                    "sale_mode": "standard",
+                    "standard": [],
+                    "use_occ": false
+                },
+                "address_type": "common",
+                "buy_limit": 127,
+                "class_parameters": {
+                    "name": "关键参数"
+                },
+                "commodity_id": 1173600040,
+                "discount_price": "",
+                "goods_id": 2173600008,
+                "image_share": "http://i8.mifile.cn/v1/a1/312cd1f8-2255-cbb1-9cb3-3e24fc6ab571!144x1440.jpg",
+                "img_url": "//i8.mifile.cn/v1/a1/312cd1f8-2255-cbb1-9cb3-3e24fc6ab571.jpg",
+                "is_sale": true,
+                "is_stock": true,
+                "market_price": "129",
+                "name": "小米移动电源2C 20000mAh 白色",
+                "next_action_button": {
+                    "is_bigtap": false,
+                    "mode_change_time": 0,
+                    "mode_end_time": 0,
+                    "mode_start_time": 0,
+                    "use_occ": false
+                },
+                "page_id": 0,
+                "price": "129",
+                "prop_list": [
+                    {
+                        "prop_cfg_id": 2,
+                        "prop_value_id": 2
+                    },
+                    {
+                        "prop_cfg_id": 1,
+                        "prop_value_id": 49
+                    }
+                ],
+                "reduce_price": "",
+                "seckill_action_button": {
+                    "is_bigtap": false,
+                    "mode_change_time": 0,
+                    "mode_end_time": 0,
+                    "mode_start_time": 0,
+                    "use_occ": false
+                },
+                "service_bargins": [],
+                "service_refound_policy": {
+                    "desc": "支持7天无理由退货",
+                    "is_support": true
+                },
+                "service_refound_policy_list": {
+                    "list": [
+                        {
+                            "goods_id": 2173600008,
+                            "img_url": "http://i8.mifile.cn/b2c-mimall-media/a32fabc4c2cecf39e88b9b018fb8d6ec.png",
+                            "is_support": true,
+                            "item_content": "7日内，无人为损坏，包装配件齐全，可以无理由退货。",
+                            "item_id": 1,
+                            "item_name": "7天无理由退货",
+                            "sku": 16252
+                        },
+                        {
+                            "goods_id": 2173600008,
+                            "img_url": "http://i8.mifile.cn/b2c-mimall-media/1769a228b31fb6b994a77c4c4ca16448.png",
+                            "is_support": true,
+                            "item_content": "15日内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费更换。",
+                            "item_id": 2,
+                            "item_name": "15天质量问题换货",
+                            "sku": 16252
+                        },
+                        {
+                            "goods_id": 2173600008,
+                            "img_url": "http://i8.mifile.cn/b2c-mimall-media/de2196c347411bab09e7e46e0df5c547.png",
+                            "is_support": true,
+                            "item_content": "1年内，如出现功能性故障或商品质量问题，经小米公司授权服务商检测，确认属于非人为商品质量问题，我们将会为您免费维修。",
+                            "item_id": 3,
+                            "item_name": "365天保修",
+                            "sku": 16252
+                        }
+                    ],
+                    "list_new": [
+                        {
+                            "is_check": true,
+                            "is_page_show": true,
+                            "title": "小米自营"
+                        },
+                        {
+                            "desc": "由小米发货",
+                            "is_check": true,
+                            "is_page_show": true,
+                            "title": "小米发货"
+                        },
+                        {
+                            "is_check": true,
+                            "is_page_show": true,
+                            "title": "7天无理由退货"
+                        },
+                        {
+                            "desc": "由小米发货的商品，单笔满150元免运费;\n由第三方商家发货的商品，免运费;\n特殊商品需要单独收取运费，具体以实际结算金额为准；优惠券等不能抵扣运费金额;",
+                            "is_check": true,
+                            "is_page_show": false,
+                            "title": "运费说明"
+                        },
+                        {
+                            "is_check": true,
+                            "is_page_show": false,
+                            "title": "售后服务政策",
+                            "url": "https://m.mi.com/aftersale/policy/28"
+                        }
+                    ],
+                    "url": "https://m.mi.com/aftersale/policy/28"
+                },
+                "stock_channel": "3"
+            }
+        ],
+        "product_info": {
+            "activity_tips": {
+                "action": {},
+                "img_url": ""
+            },
+            "is_batched": false,
+            "is_choose": false,
+            "is_enable": true,
+            "name": "移动电源2C（20000mAh）",
+            "page_id": 0,
+            "price_tips": {},
+            "product_desc": "大容量 / 双USB输出 / 高品质锂聚合物电池 / 双向快充",
+            "product_gallery_icon": {},
+            "product_id": 6802,
+            "share_content": ""
+        },
+        "related_rank": {
+            "data": null,
+            "title": ""
+        },
+        "related_recommend": {
+            "data": null,
+            "title": ""
+        },
+        "seo": {
+            "description": "大容量 / 双USB输出 / 高品质锂聚合物电池 / 双向快充",
+            "keywords": "小米移动电源2C,20000mAh,白色",
+            "title": "移动电源2C（20000mAh）"
+        },
+        "server_time": 1554967277,
+        "view_content": {
+            "commentView": {
+                "commentView": {
+                    "detail": {
+                        "comment_labels": [],
+                        "comments_bad": 874,
+                        "comments_general": 1049,
+                        "comments_good": 36889,
+                        "comments_total": 38189,
+                        "five_star": 34473,
+                        "four_star": 1793,
+                        "one_star": 874,
+                        "satisfy_per": "96.6",
+                        "three_star": 623,
+                        "two_star": 426
+                    },
+                    "list": [
+                        {
+                            "add_time": "2019-01-02",
+                            "add_timestamp": 1546396315,
+                            "average_grade": "5",
+                            "comment_content": "充电宝很不错，小米产品",
+                            "comment_full_images": [
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/381f4d062d750af73b38c8cb1aa8a2aa.webp",
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/b4cc4a2217b098e7084f1a7108b39f17.webp",
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/6060c4284623f3a6108cf4b13eb72adc.webp",
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/162907caceae921942f46305dd92ed20.webp",
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/eb8f710940c16fbba3bf5f051cb74e5e.webp"
+                            ],
+                            "comment_grade": 1,
+                            "comment_id": "158233022",
+                            "comment_images": [
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/381f4d062d750af73b38c8cb1aa8a2aa.webp",
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/b4cc4a2217b098e7084f1a7108b39f17.webp",
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/6060c4284623f3a6108cf4b13eb72adc.webp",
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/162907caceae921942f46305dd92ed20.webp",
+                                "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/eb8f710940c16fbba3bf5f051cb74e5e.webp"
+                            ],
+                            "down": false,
+                            "down_num": "0",
+                            "has_up_customer": false,
+                            "is_top": "0",
+                            "reply_time": "1970-01-01",
+                            "reply_up_num": "0",
+                            "site_id": "101",
+                            "site_name": "小米移动商城",
+                            "spec_value": "白色",
+                            "tags": "[]",
+                            "total_grade": "5",
+                            "up": false,
+                            "up_customer_num": 0,
+                            "up_num": 35,
+                            "up_rate": 100,
+                            "user_avatar": "//cdn.cnbj0.fds.api.mi-img.com/b2c-data-mishop/9d89724ca4025f917ee7acc97928412b.webp",
+                            "user_id": "148****049",
+                            "user_name": "1482310049",
+                            "user_reply_num": "0",
+                            "user_replys": []
+                        }
+                    ],
+                    "total": 38188
+                },
+                "viewType": "commentView"
+            },
+            "descTabsView": {
+                "descTabsView": [
+                    {
+                        "name": "概述",
+                        "tabContent": [
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/b2c-mimall-media/94b0150848281a46e223551731fa02f4.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/6738240b-4cdc-4580-502a-8a1a0489e1eb.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/9ac35a37-bee2-3f32-6331-b44a8530b94f.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/05630fda-253f-e864-a81b-b5f1419d0b32.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/db0df334-b9bf-13f5-7d61-a04849fea504.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/34e34b03-00d4-86f8-f925-b841963ee900.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/910428e9-3315-53e8-b2dc-c71b179ddfd8.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/471be0ab-a9a4-770f-90a7-04cfd1070743.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/681e00a4-8c12-6480-8074-a7d2b6177dea.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/79a52f24-52c2-ccc9-b285-1d5f16f1d573.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/f6f197a9-d3fd-acc9-c58c-b675cc99a335.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/fc88fd153c1da1138fd621e00137d3e2.png",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "参数",
+                        "tabContent": [
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/cc080416-b1ad-5509-e65b-8a3fb65a2487.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            },
+                            {
+                                "plainView": {
+                                    "content": "",
+                                    "img": "//i8.mifile.cn/v1/a1/7831bc63-26f0-0de0-d65a-ce83e0e58edd.jpg",
+                                    "is_not_compress": "0",
+                                    "title": ""
+                                },
+                                "viewType": "plainView"
+                            }
+                        ]
+                    }
+                ],
+                "viewType": "descTabsView"
+            },
+            "galleryView": {
+                "galleryView": [
+                    "//i8.mifile.cn/v1/a1/c581bbb5-8ebe-7fb2-ea68-668a123ce58c.webp",
+                    "//i8.mifile.cn/v1/a1/473109dd-3f7c-0998-cd8f-e07bc585dab9.webp",
+                    "//i8.mifile.cn/v1/a1/acbccec7-287e-28b5-878c-1e3338c7f267.webp",
+                    "//i8.mifile.cn/v1/a1/d2dc0c63-d0be-075a-00ad-c77c86554555.webp"
+                ],
+                "viewType": "galleryView"
+            },
+            "relatePackageView": {
+                "relatePackageView": {
+                    "packages": [],
+                    "title": "精选套餐"
+                },
+                "viewType": "relatePackageView"
+            },
+            "relatePartsView": {
+                "relatePartsView": {
+                    "desc": "",
+                    "parts": [],
+                    "title": "配件"
+                },
+                "viewType": "relatePartsView"
+            }
+        }
+    },
+    "result": "ok"
+}

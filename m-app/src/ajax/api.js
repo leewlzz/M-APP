@@ -10,9 +10,9 @@ const PRO_HOST = 'http://129.204.72.71:80';
 /*
 说明： 猜你喜欢商品接口
 请求方式：GET
-参数： 无
+参数： goodsId
 */ 
-const GOODS_RECOM_API = '/data/recom_list.json';
+const GOODS_GOODS_DETIAL_API = '/data/detial.json';
 
 /*
 说明： 分类页面接口
@@ -24,7 +24,7 @@ const CATE_DATA_API = '/v1/home/category_v2'
 
 export default {
     HOST: DEV_HOST,
-    GOODS_RECOM_API,
-    CATE_DATA_API
+    CATE_DATA_API,
+    GOODS_GOODS_DETIAL_API
 }
 

@@ -8,18 +8,18 @@ Vue.use(Router);
 
 
 const routes = [
-  homeRoute,
-  categoryRoute,
-  cartRoute,
-  mineRoute,
-  {
-    path: '**',
-    redirect: '/home'
-  }
+	homeRoute,
+	categoryRoute,
+	cartRoute,
+	mineRoute,
+	{
+		path: '**',
+		redirect: '/home'
+	}
 ];
 
 export default new Router({
-  mode: 'history',
-  base: process.env.BASE_URL,
-  routes
+	mode: 'history',
+	base: process.env.BASE_URL,
+	routes
 })
